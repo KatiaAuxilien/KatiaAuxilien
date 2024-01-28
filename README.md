@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KatiaAuxilien
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning java,c,html/css, php, sql, arm.
-- ✨ If you want to collaborate with me contact me on discord : @KatiaAux
+- ✨ If you want to collaborate with me contact me.
 - 📫 Reach me on my email : katiaauxilien@hotmail.com

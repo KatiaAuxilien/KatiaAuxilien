@@ -27,6 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katiaauxilien&show_icons=true&locale=en" alt="katiaauxilien" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katiaauxilien&" alt="katiaauxilien" /></p>
 
 <h6>https://github.com/rahuldkjain/github-profile-readme-generator</h6>
